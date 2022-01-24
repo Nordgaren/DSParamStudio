@@ -2,12 +2,9 @@
 <PARAMMETA XmlVersion="0">
 <Enums>
 	<Enum Name="School">
-		<Option Value="0" Name="None" />
-		<Option Value="1" Name="Gesture" />
-		<Option Value="2" Name="Sorcery" />
-		<Option Value="3" Name="Miracle" />
-		<Option Value="4" Name="Pyromancy" />
-		<Option Value="5" Name="Hex" />
+		<Option Value="0" Name="Untradeable/Undroppable" />
+		<Option Value="2" Name="Dropable/Untradeable" />
+		<Option Value="6" Name="Dropable" />
 	</Enum>
 </Enums>	
 <Self Row0Dummy="" />

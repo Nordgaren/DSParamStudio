@@ -52,7 +52,7 @@
 10 - Gesture
 </Description>
     </Field>
-    <Field Def="u8 Unknown State">
+    <Field Def="u8 Unknown State2">
       <Description>Used in items.
 0 - None
 2 - ?

@@ -8,8 +8,10 @@
   <Fields>
     <Field Def="s32 Unk00" />
     <Field Def="u8 Unk04" />
-    <Field Def="u8 Unk04" />
-    <Field Def="u8 Unk04" />
+    <Field Def="u8 Unk05" />
+    <Field Def="u8 NoTrade:1" />
+    <Field Def="u8 CanDiscard:1" />
+    <Field Def="u8 CanDrop:1" />
     <Field Def="u8 Unk04" />
   </Fields>
 </PARAMDEF>
